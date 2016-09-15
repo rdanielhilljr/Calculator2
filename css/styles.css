@@ -1,0 +1,36 @@
+h1 {
+  text-align: center;
+}
+
+
+.add-box {
+  width: auto;
+  background-color: #E8E8EE;
+  border: 2px solid red;
+  padding: 10px;
+  margin: 10px;
+}
+
+.sub-box {
+  width: auto;
+  background-color: #FFFFE0;
+  border: 2px solid red;
+  padding: 10px;
+  margin: 10px;
+}
+
+.multiply-box {
+  width: auto;
+  background-color: #EEFFE6;
+  border: 2px solid red;
+  padding: 10px;
+  margin: 10px;
+}
+
+.divide-box {
+  width: auto;
+  background-color: #FFE6FF;
+  border: 2px solid red;
+  padding: 10px;
+  margin: 10px;
+}
